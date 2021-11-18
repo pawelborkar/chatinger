@@ -2,7 +2,7 @@
   "name": "chatinger",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/pawelborkar/chatinger",
+  "homepage": "https://thechatinger.netlify.app",
   "dependencies": {
     "@ant-design/icons": "^4.7.0",
     "axios": "^0.24.0",
